@@ -1,0 +1,14 @@
+{
+  "name": "test-pearls-logger",
+  "version": "1.0.0",
+  "description": "To test the functionality of pearls-logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fatima Zahid",
+  "license": "ISC",
+  "dependencies": {
+    "pearls-logger": "^1.0.2"
+  }
+}

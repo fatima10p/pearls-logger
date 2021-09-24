@@ -1,0 +1,15 @@
+{
+  "name": "pearls-logger",
+  "version": "1.0.2",
+  "description": "A middleware that can be used for logging in your NodeJS projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fatima Zahid",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pino": "^6.13.3"
+  }
+}
